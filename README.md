@@ -2,6 +2,11 @@
 
 This is a personal resume application, created as a 3D website using [Three.js](https://threejs.org/). The project is designed to showcase your portfolio in an interactive and visually appealing 3D format.
 
+
+https://github.com/user-attachments/assets/8b4c1c65-b323-41b0-807b-6f8f32ad74f8
+
+
+
 ## Features
 
 - **3D Design:** Built with Three.js to create an engaging, immersive experience.
